@@ -43,27 +43,33 @@ button{
 }
 .title{
     text-align: center;
+    padding: 15px;
 
 }
 .cities{
- 
-    padding: 50px;
-  margin-top: 100px;
-  margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 80px;
+    display: block;
+    padding: 10px;
+
 }
 .edinburgh{
-       background-color: #F1F1F7;
+    background-color: #F1F1F7;
+    margin: 100px;
+    padding: 30px;
     
+       
+ 
 }
 
 .glasgow{
-       background-color: #F1F1F7;
+    background-color: #F1F1F7;
+    margin: 100px;
+    padding: 30px;
     
 }
 
 .stirling{
-       background-color: #F1F1F7;
+    background-color: #F1F1F7;
+    margin: 100px;
+    padding: 30px;
     
 }
