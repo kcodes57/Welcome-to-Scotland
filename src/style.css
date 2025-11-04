@@ -7,8 +7,24 @@ body{
 
 }
 header{
-    background-color: #953ddd
+    color: white;
+    background-color: #592588
+}
+main{
+    text-align: justify;
 }
 .info{
-    background-color: #F2F2F8;
+    background-color: #F1F1F7;
+    margin: 50px
+    
+}
+.title{
+    text-align: center;
+
+}
+.cities{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
